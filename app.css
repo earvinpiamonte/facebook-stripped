@@ -8,11 +8,6 @@
   display: none;
 }
 
-/* Hide profile link */
-[href="/me/"] {
-  display: none;
-}
-
 /* Hide left sidebar */
 #ssrb_left_rail_start + [role="navigation"] {
   visibility: hidden;
