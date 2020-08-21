@@ -1,0 +1,20 @@
+{
+  "name": "Facebook Stripped",
+  "version": "0.1.0",
+  "manifest_version": 2,
+  "description": "Minimal Facebook experience for web.",
+  "icons": {
+    "16": "images/icon16.png",
+    "32": "images/icon32.png",
+    "48": "images/icon48.png",
+    "120": "images/icon120.png",
+    "128": "images/icon128.png",
+    "512": "images/icon512.png"
+  },
+  "content_scripts": [
+    {
+      "css": ["app.css"],
+      "matches": ["https://facebook.com/*"]
+    }
+  ]
+}
