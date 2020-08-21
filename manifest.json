@@ -8,7 +8,6 @@
     "32": "images/icon32.png",
     "48": "images/icon48.png",
     "120": "images/icon120.png",
-    "128": "images/icon128.png",
     "512": "images/icon512.png"
   },
   "content_scripts": [
