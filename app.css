@@ -1,5 +1,15 @@
+/* Reduce font size for all */
+* {
+  font-size: 99.5% !important;
+}
+
 /* Hide center navigation */
 [aria-label="Facebook"][role="navigation"] {
+  display: none;
+}
+
+/* Hide profile link */
+[href="/me/"] {
   display: none;
 }
 
@@ -20,10 +30,5 @@
 
 /* Hide rooms section */
 [data-pagelet="VideoChatHomeUnit"] {
-  display: none;
-}
-
-/* Hide profile link */
-[href="/me/"] {
   display: none;
 }
