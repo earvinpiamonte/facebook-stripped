@@ -13,7 +13,7 @@
   "content_scripts": [
     {
       "css": ["app.css"],
-      "matches": ["https://facebook.com/*"]
+      "matches": ["https://*.facebook.com/*"]
     }
   ]
 }
