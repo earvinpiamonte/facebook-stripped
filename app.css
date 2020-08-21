@@ -1,0 +1,29 @@
+/* Hide center navigation */
+[aria-label="Facebook"][role="navigation"] {
+  display: none;
+}
+
+/* Hide left sidebar */
+#ssrb_left_rail_start + [role="navigation"] {
+  visibility: hidden;
+}
+
+/* Hide right sidebar */
+[role="main"] + [role="complementary"] {
+  visibility: hidden;
+}
+
+/* Hide stories section */
+[data-pagelet="Stories"] {
+  display: none;
+}
+
+/* Hide rooms section */
+[data-pagelet="VideoChatHomeUnit"] {
+  display: none;
+}
+
+/* Hide profile link */
+[href="/me/"] {
+  display: none;
+}
