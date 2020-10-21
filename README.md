@@ -2,6 +2,15 @@
 
 A browser extension for minimal Facebook experience for web.
 
+## Developer mode
+
+1. Download this project as [zip](https://github.com/earvinpiamonte/facebook-stripped/archive/master.zip).
+2. Extract files to a directory.
+3. Open Google Chrome and type `chrome://extensions` on the address bar and press enter.
+4. On the top right side of the Extensions page, make sure to enable `Developer mode`.
+5. Click on `Load unpacked` button and select `facebook-stripped-master/` directory from the extracted from zip.
+6. Reload a tab of your Facebook page.
+
 ## Found an issue?
 
 If you found an issue or you have some recommendation, send me an email at [earvin.piamonte@gmail.com](mailto:earvin.piamonte@gmail.com).
