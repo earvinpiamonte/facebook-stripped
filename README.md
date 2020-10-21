@@ -2,6 +2,10 @@
 
 A browser extension for minimal Facebook experience for web.
 
+## Screenshot
+
+![alt text](images/screenshot-1.png "Facebook web screenshot 1")
+
 ## Developer mode
 
 1. Download this project as [zip](https://github.com/earvinpiamonte/facebook-stripped/archive/master.zip).
